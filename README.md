@@ -4,7 +4,7 @@
 <br>
 Currently doing the Full-Stack course at codeFactory in Vienna, Austria. :bulb: :computer:
 <br>
-Alternatively doing challenges at Freecodecamp (HTML, CSS and JavaScript). :computer_mouse: :keyboard:
+Additionally doing challenges at Freecodecamp (HTML, CSS and JavaScript). :computer_mouse: :keyboard:
 <br>
 <br>
 <br>
