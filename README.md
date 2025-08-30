@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 CODEFACTORY Full-Stack Developer Journey</h1>
 
 <p align="center">
-  Welcome to my repository! I'm currently enrolled in the <strong>Full-Stack Web Developer Course</strong> at <strong>CODEFACTORY Academy</strong>, where I'm building a solid foundation in web technologies, software development, and modern frameworks.
+Welcome to my repository! I’ve officially completed the Full-Stack Web Developer Course at CODEFACTORY Academy and I’m now a certified Full-Stack Developer. 🚀 This journey gave me hands-on experience with web technologies, software development, and modern frameworks.
 </p>
 
 ---
